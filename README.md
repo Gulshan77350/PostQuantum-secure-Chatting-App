@@ -1,8 +1,3 @@
-Below is a **complete README.md file** — clean, formatted, and ready to paste into your repo.
-I am **not** adding explanations — this is the final file content 👇
-
----
-
 ````markdown
 # 🔐 Secure One-to-One Private Chat — Next.js + Socket.io + MongoDB Atlas
 
